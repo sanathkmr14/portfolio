@@ -13,5 +13,4 @@ Key Features:
 4. Navigation Menu: Streamlined links to sections like About, Skills, Projects, and Contact.
 
 Tech Stack:
-Frontend: React.js, HTML, CSS, and JavaScript
-Styling: Bootstrap framework for clean and responsive design
+Frontend: React.js, HTML, CSS, JavaScript and Bootstrap framework for clean and responsive design
